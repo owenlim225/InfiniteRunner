@@ -1,0 +1,37 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1751807450
+::res://assets/::1751807511
+::res://assets/materials/::1751807184
+green.tres::StandardMaterial3D::2967297306462191102::1751807184::0::1::::<><><>0<>0<><>::
+grey.tres::StandardMaterial3D::4762681349887284046::1751807184::0::1::::<><><>0<>0<><>::
+red.tres::StandardMaterial3D::2474749252509424344::1751807184::0::1::::<><><>0<>0<><>::
+::res://assets/models/::1751807451
+module1.obj::Mesh::5227770676477227218::1751805957::1751807451::1::::<><><>0<>0<>44c4047bd460653fa3cc4a0e34111841<>res://.godot/imported/module1.obj-b09ed0d9ba67717e67c1ad8a3352eace.mesh<*>res://.godot/imported/module1.obj-b09ed0d9ba67717e67c1ad8a3352eace.mesh::
+module2.obj::Mesh::413112130507605498::1751805957::1751807451::1::::<><><>0<>0<>14f22bd60c5828a4c15a0b50025ec63d<>res://.godot/imported/module2.obj-b1ac54c80d42cd18e7050646091f25b0.mesh<*>res://.godot/imported/module2.obj-b1ac54c80d42cd18e7050646091f25b0.mesh::
+module3.obj::Mesh::1154257883982640742::1751805957::1751807451::1::::<><><>0<>0<>a27b1940371a4eb23019ae70bcbec2ad<>res://.godot/imported/module3.obj-1103fc17733069730f37dd0b102d0a78.mesh<*>res://.godot/imported/module3.obj-1103fc17733069730f37dd0b102d0a78.mesh::
+module4.obj::Mesh::7269583109653621574::1751805957::1751807451::1::::<><><>0<>0<>1d7074b6ef8e943441d7ab10583581b1<>res://.godot/imported/module4.obj-9c771fa8c78780d13a4317b64786bebf.mesh<*>res://.godot/imported/module4.obj-9c771fa8c78780d13a4317b64786bebf.mesh::
+module5.obj::Mesh::6236214240202326222::1751805957::1751807451::1::::<><><>0<>0<>d1f0787a12af99a091a0af87c0e56a70<>res://.godot/imported/module5.obj-4925574c7d98a51f728da092865591b7.mesh<*>res://.godot/imported/module5.obj-4925574c7d98a51f728da092865591b7.mesh::
+::res://assets/ui/::1751807518
+IM LATE - ARROW.png::CompressedTexture2D::3060336732529248730::1751807518::1751807520::1::::<><><>0<>0<>8a9a4198bafa6162a0d9b14832bba10c<>res://.godot/imported/IM LATE - ARROW.png-0ad82bb34dd6bfb0842de7d3708259fa.ctex::
+IM LATE - CURRENCY BUTTON.png::CompressedTexture2D::5090350710709225814::1751807518::1751807520::1::::<><><>0<>0<>15d33f382514ecc5cf3a018dcadd62b4<>res://.godot/imported/IM LATE - CURRENCY BUTTON.png-559a43c9b4952382d51b5f2a603e8dae.ctex::
+IM LATE - DESTINAATION.png::CompressedTexture2D::4439911772381583550::1751807518::1751807520::1::::<><><>0<>0<>627a9b1cff7cb53eb940cba34094592c<>res://.godot/imported/IM LATE - DESTINAATION.png-9173d587460763cfc05043449fa2cb48.ctex::
+IM LATE - GOALS BUTTON.png::CompressedTexture2D::7741777388449520331::1751807518::1751807520::1::::<><><>0<>0<>9dd280f9814f06dd337a3e1a00120c68<>res://.godot/imported/IM LATE - GOALS BUTTON.png-79ec8bb23869ac06449a9f54ad778512.ctex::
+IM LATE - HOME ICON.png::CompressedTexture2D::4115399658486214062::1751807518::1751807520::1::::<><><>0<>0<>3dee230ca99b9c1bf18c48a2d857e3de<>res://.godot/imported/IM LATE - HOME ICON.png-931f86a22d73b0ee5296fecbd7363e9d.ctex::
+IM LATE - PLAIN BUTTON.png::CompressedTexture2D::2992060048778228031::1751807518::1751807520::1::::<><><>0<>0<>43f49be7ffae4f882feeeab9eb1c196f<>res://.godot/imported/IM LATE - PLAIN BUTTON.png-d5411490e9e42f1d8728410c6aa4c35a.ctex::
+IM LATE - SELECT BUTTON.png::CompressedTexture2D::5595899539156864935::1751807518::1751807520::1::::<><><>0<>0<>9c06eb85ddbda0df175cee8706bb768c<>res://.godot/imported/IM LATE - SELECT BUTTON.png-dd032812d13028a525733aab7ce2a1a1.ctex::
+IM LATE - SETTINGS BUTTON.png::CompressedTexture2D::5264000998646240372::1751807518::1751807520::1::::<><><>0<>0<>e617ddfdfedb9f142f7382e15bb55af2<>res://.godot/imported/IM LATE - SETTINGS BUTTON.png-db11861e839a1e553c7afbbbee9d736b.ctex::
+IM LATE - SHOP ICON.png::CompressedTexture2D::3749224307862260994::1751807518::1751807520::1::::<><><>0<>0<>03cacd1b59c2c14ac2d2d334b3c33800<>res://.godot/imported/IM LATE - SHOP ICON.png-49840f5843d0df8a82da651d670c8aec.ctex::
+IM LATE - TIME.png::CompressedTexture2D::3309904006335140965::1751807518::1751807521::1::::<><><>0<>0<>ba94e49957eb081dfd3b51d33eb2bb4e<>res://.godot/imported/IM LATE - TIME.png-f22ce498bdd141d65f7238b99511f360.ctex::
+::res://modules/::1751807479
+module1.tscn::PackedScene::1120513614318185903::1751807479::0::1::::<><><>0<>0<><>::uid://cgqmvb4gnajoc::::res://assets/models/module1.obj<>uid://xxtntelkm2yr::::res://modules/module.gd<>uid://b84cwv5kxjjqs::::res://assets/materials/grey.tres<>uid://bbi101762vk45::::res://assets/materials/red.tres
+module2.tscn::PackedScene::2003730060471804570::1751807450::0::1::::<><><>0<>0<><>::uid://f5d5qjnyqap3::::res://assets/models/module2.obj<>uid://xxtntelkm2yr::::res://modules/module.gd<>uid://b84cwv5kxjjqs::::res://assets/materials/grey.tres<>uid://bbi101762vk45::::res://assets/materials/red.tres
+module3.tscn::PackedScene::9089438733422649777::1751807450::0::1::::<><><>0<>0<><>::uid://qpepujexwbww::::res://assets/models/module3.obj<>uid://xxtntelkm2yr::::res://modules/module.gd<>uid://b84cwv5kxjjqs::::res://assets/materials/grey.tres<>uid://bbi101762vk45::::res://assets/materials/red.tres
+module4.tscn::PackedScene::7087052206557763817::1751807450::0::1::::<><><>0<>0<><>::uid://xxtntelkm2yr::::res://modules/module.gd<>uid://dbto8bkl5hh23::::res://assets/models/module4.obj<>uid://b84cwv5kxjjqs::::res://assets/materials/grey.tres<>uid://bbi101762vk45::::res://assets/materials/red.tres
+module5.tscn::PackedScene::1439480209270335175::1751807450::0::1::::<><><>0<>0<><>::uid://xxtntelkm2yr::::res://modules/module.gd<>uid://cu34sjirpgpco::::res://assets/models/module5.obj<>uid://b84cwv5kxjjqs::::res://assets/materials/grey.tres
+module.gd::GDScript/GDScript::1663001934837973261::1751805957::0::1::::<>Node3D<><>0<>0<><>::
+::res://scenes/::1751807479
+in_game_ui.tscn::PackedScene::251336347558457919::1751807479::0::1::::<><><>0<>0<><>::
+main.tscn::PackedScene::5201714595116028913::1751807478::0::1::::<><><>0<>0<><>::uid://dsxhftn3r7bsu::::res://Script/Level.gd<>uid://p71xwawyruxj::::res://modules/module1.tscn<>uid://3sve2nrss2io::::res://modules/module2.tscn<>uid://d2q8y0rtu2njt::::res://modules/module3.tscn<>uid://c78ayj4g08730::::res://modules/module4.tscn<>uid://urka8ho68bnr::::res://modules/module5.tscn<>uid://ba42sdoukxrxv::::res://Script/Player.gd<>uid://bijm7n2bbco7g::::res://assets/materials/green.tres
+::res://Script/::1751806941
+Level.gd::GDScript::8470576892148429900::1751805957::0::1::::<>Node3D<><>0<>0<><>::
+Player.gd::GDScript::2447959321776125759::1751805957::0::1::::<>CharacterBody3D<><>0<>0<><>::

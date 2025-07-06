@@ -1,4 +1,10 @@
+res://modules/module1.tscn
+res://modules/module2.tscn
+res://modules/module3.tscn
+res://modules/module4.tscn
+res://modules/module5.tscn
 res://scenes/main.tscn
 res://art/materials/grey.tres
 res://art/materials/red.tres
 res://art/materials/green.tres
+res://scenes/in_game_ui.tscn
